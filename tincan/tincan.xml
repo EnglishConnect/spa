@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">EnglishConnect 1</name>
+      <description lang="en-US">&lt;span style=&#34;color: rgb(36, 103, 178); font-size: 28px;&#34;&gt;Otros Recursos&lt;/span&gt;&lt;a target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; href=&#34;mailto:englishconnectrobot@gmail.com&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://englishconnect.github.io/spa/2/&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;EnglishConnect 2&lt;/a&gt;&lt;a href=&#34;https://englishconnect.github.io/spa/lectura&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://englishconnect.github.io/spa/3/&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;EnglishConnect 3&lt;/a&gt;&lt;br&gt;EnglishConnect curso de prueba para las misiones del area de Dallas Fort Worth&lt;span style=&#34;font-size: 12px;&#34;&gt;If you are outside the DFW Area please get mission president approval, &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScpyUKGTiBO_Y3VmwePTPeqZ0vesskRnFoZUl46n5M48tczbA/viewform?usp=sf_link&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;send us your email&lt;/a&gt; and review the&amp;nbsp;&lt;/span&gt;&lt;a href=&#34;https://englishconnect.github.io/instructor&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;font-size: 12px;&#34;&gt;training&lt;/span&gt;&lt;/a&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/cTRE9PMVYnupjk-97r-lxlMxIvLjzx8Y" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Lecciones/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/xVpdvMzSXP0dZd_9U8Vx6KnSrArAcgg8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">1. Introducción/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/BKY5RSd4vswnStadh_iT0Okhnu0E-05b" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">2. Saludos e introducciones/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/0Rrw-MQl0ktlLhc8xar9COqNQsU1QBLg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">3. Introducciones personales/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/GZkYwU57zDbE0NANZk9nfWwwuVFUcm7b" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">4. Pasatiempos e intereses - 1/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/ReW8L06YaMkH9BqaY0VPjx4CiFnwodJ7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">5. Pasatiempos e intereses - 2 /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/gMqnSKOry148y37jn1gIHDx6YQdQWlp2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">6. Familia - 1/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/6y1SvVzG3xb6sOc1_cP7CfziUoPsveuz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">7. Familia - 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/Xfw9BybabNf9f4CCVKMxnfSM3bECd5QK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">8. Artículos Comunes/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/WdbtqtB6SDI8AOdH6aUTPiXSMgPATNow" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">9. Ropa y Colores/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/FNdTXzZm9HW9Bw_2wCn5qRImcr_6zSim" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">10. Rutinas diarias/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/FnPmJy28BI_1xFlISwEiL-SFyF39xxPt" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">11. Actividades Actuales/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/TCrE7nGrgYeLpEGN3OZPoNAfkODREvDJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">12. Time and calendar/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/VaE2vcGafPLeNJXMmcU-hEj3vU455tG9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">13. El clima/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/Blc7oTxJRxYb4WubKv4hMvL7mozARBvm" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">14. Trabajos y Careras/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/zyfepOlf6UMh9np6xzowny-sZ-mckOGJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">15. Trabajos y Careras - 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/YpdFMDDK6oBV_tBUYuDJwdAO1CDreWlf" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">16. Comida/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/B8nqFavqyf5oOluN-4Bi_plc12hzdrEz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">17. Comida - 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/QIN9Hjvt-xrEM_g4WbAzo2XtzuX6WD7J" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">18. Comida - 3/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/sDT77Labso3AaDysh7c2OFMysVvd_NL1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">19. Dinero/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/kFcUWNNPUthB2-nKJn4WFy46mf7CKr8d" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">20. Casa/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/Ll7HD5V-lYigcqWqwAx9yiwGN_4K6k2D" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">21: Casa - 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/Vau9irSsjRG43myno0D2E1qNSaJRXiw0" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">22. Comunidad/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/XScQhAu8UwGef5BGNIvkbZo2n8Stncd9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">23. Salud/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/FlPk9DjJgwz8mF_Vi02ufht-jEBFaAq5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">24. Salud - 2/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/MWXs7UC-Citt1RKVsV5hkRXQ9jtmDZHx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Practica/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/yvPPk4nncq2D_mGECHuJVAXgEgQSBJn9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US"> 1 Introducción - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/WxlYyvRosOqgxC57VTySWF6L9XTVQApr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">2. Saludos e introducciones - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/XWxdbMQYhpgt1Cx3ZmJK8kICrEpPsXA8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">3. Introducciones personales - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/XPNEo03Xs5qLF9G1D0irYyqFHMfi6Y-n" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">4. Pasatiempos e intereses - 1 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/JYufnMHsxCqwvyK6tz-oI_-_8R8s9VsE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">5. Pasatiempos e intereses - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/3LJmRlxck_srTXX4RADmQ4ckfB_rmpUz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">6. Familia - 1 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/SY1uV39Qa70-_ztLdLAENBlrn3AmsTH3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">7. Familia - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/stfulIu0UoTv9JyRrQEOv2EGqL4jItUb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">8. Artículos Comunes - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/NhtssVA9aQwAlhA6rEMC_RBsrt7InzUs" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">9. Ropa y Colores - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/0GPStoeaokIbsNzKzHayCBPijhgtbqTL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">10. Rutinas diarias - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/YgNK6YY70BSsSTFKz_5u5PXYQZaYcQle" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">11. Actividades Actuales - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/X7CGX1zXHBKlU9LCJyfIPDCjPRUjz8eu" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">12. Time and calendar - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/K4rJeMjAZQ9VLmV8Sz6LbP-JH2lgp97T" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">13. El clima - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/zmBVhictIXq6s_h5VWRg9AlQ3p8PMZd7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">14. Trabajos y Careras - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/d7YOt5FtM4PMyDPUhOGsYiREodr7TmWJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">15. Trabajos y Careras - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/dWhF5zLN-FSzswfywCjYF3BnJ547CBHh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">16. Comida - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/UxJF7x83ymTF8idqHe4jcTup_H4f6-hE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">17. Comida - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/MaLBduXHRQwamgFZXVAkkw27J-NM-R9n" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">18. Comida - 3 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/H0CLb2lKL0ve20HG6uaAbkgRIwiZBqyj" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">19. Dinero - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/yIs4muWQT3DgDtsIK7HTrn7oIjMvHsdz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">20. Casa - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/uxh4LrKUAfJTuUnfjiE_45Xn1-izcleJ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">21. Casa - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/7bTiV5tG0b-5rM3_eN33ftw-hu3oMRgG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">22. Comunidad - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/t87u-R3miF3CGX_TQcmcOhBAWUV92m36" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">23. Salud - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/2VLDX17ANgdPPUFQA8DcrWSK-CtW8oOL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">24. Salud - 2 - practica/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/-rxkbh2pGwhACLQnFofN737-tk4jv6jA" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Lectura/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/MtMLZHB7199K_MAPdn56r1sPK4bifQZA" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">1: LEHI WARNS THE PEOPLE/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/-oAMCGvkKnr6sWPfSyRWqPv1FOHhUc54" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">2: LEHI SALE DE JERUSALÉN/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/tfowJYZwqkFSkMTAIN6FCrMqYg5Jj0hN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">3: EL SUEÑO DE LEHI/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/Fv2PYm7ju__6U36nb0m0ISHPtPtSXCC7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">4: LA CONSTRUCCIÓN DEL BARCO/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/KQa-FqKQXWlM2lJkXabNURfuJGhASPh8" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">5: UN NUEVO HOGAR EN LA TIERRA PROMETIDA/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/zy7pCBzRYBfwJC6BukMP5XMrWiu_nLw5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">6: ENÓS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/dgwuVRV5RrJVTfEgSACRMaEo_pY2flfF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">7: EL REY BENJAMÍN/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/726O5_ecONCA8ZGidFtb3wRxT6oPEmPE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">8: ALMA ENSEÑA Y BAUTIZA/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/yNJ0fP7RDau8bYaxFoECCp_NYweMhyhe" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">9: ALMA, HIJO, SE ARREPIENTE/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/5ct2LN5p-F9DHIhf2SeWArDj91kqFFpD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">10: LOS HIJOS DE MOSÍAH SE CONVIERTEN EN MISIONEROS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/R-8V76_R5Sst9lW1bfZgVBGhqTX0KXft" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">11: AARÓN ENSEÑA AL PADRE DEL REY LAMONI/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/SyL9lXmvLW6KflOCIKAm8Z-i26OseEgE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">12: ALMA ENSEÑA EN CUANTO A LA FE Y LA PALABRA DE DIOS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/3W7r0ATdG13InNF_k551D5TzyPe85g-1" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">13: HELAMÁN Y LOS DOS MIL JÓVENES GUERREROS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/OqRYTCDDuPYzxGGKCqiD-GQ4CGJ8eE_4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">14: NEFI Y LEHI SON ENCARCELADOS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/UviNCEgCzKt0sS6zZvW2uJKN4829yD4E" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">15: LAS SEÑALES DEL NACIMIENTO DE CRISTO/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/1OSEA3DVxWcluPKbQBuWdU7eAEvERxoO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">16: LAS SEÑALES DE LA CRUCIFIXIÓN DE CRISTO/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/w3NGj9cOibFH9FxE-vmYNGe6u7VtqCWL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">17: JESUCRISTO SE APARECE A LOS NEFITAS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/jC5uw_ZXd-mpVpuHBYiGANx5jiFj_iED" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">18: JESUCRISTO BENDICE A LOS NIÑOS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/3ocAiAUy4j6qP0f7bqRKBa93MnQ7aaCb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">19: JESUCRISTO ENSEÑA SOBRE LA SANTA CENA Y LA ORACIÓN/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/_XlueNS4GZ4yuMa-qYzxbtyJPqobafjN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">20: JESUCRISTO ENSEÑA A LOS NEFITAS Y ORA CON ELLOS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/sK8-4dFQQn2JRJpRnmxv86NLD3oNEFPP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">21: JESUCRISTO BENDICE A SUS DISCÍPULOS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/K1MyKiXY1Alpg-1xXM7QmQxD1tIYQmzd" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">22: PAZ EN AMÉRICA/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/R3mIju3yjzjT8tU05InkY2a2CO2yx4MN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">23: MORMÓN Y SUS ENSEÑANZAS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/wa6Xz3ao-sCwG7-ZGxyWFEcqUS-77g46" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">24: MORONI Y SUS ENSEÑANZAS/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://l6Vk8Y8dmUS5ZhOaS0dr_90qKBfphFcF_rise/XG2FE7aHE1FG_HGiN6h1eNXRQtt74JA0" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">25: LA PROMESA DEL LIBRO DE MORMÓN/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
