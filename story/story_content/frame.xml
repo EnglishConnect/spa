@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" outputtype="undefined" theme="unified">
   <layouts>
     <layout name="npnxnanbsnfns00001100101" font="Lato" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="pxabnsnfns00001100101" font="Lato" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="npxnabnsnfns00001100101" font="Lato" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="npnxnanbnsnfns00001100101" font="Lato" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="pxabnsnfns00001100100" font="Lato" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
-    <layout name="npnxnanbsnfns00001100100" font="Lato" controllayout="npnxnanbsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -59,7 +58,12 @@
       <optiongroup name="controls">
         <options>
           <option name="volume" value="true" />
-          <option name="seekbar" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
@@ -188,29 +192,6 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
       <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="npnxnanbsnfns00001100100">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
@@ -1103,7 +1084,7 @@
           <color name="brandhighlight">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4F81BD" alpha="100" stop="0" />
+                <color rgb="0x7FD13B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1305,49 +1286,11 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ePdnY54nMd" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5vkdttDQ52O" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6ePdnY54nMd.68j4ZO6tICT" displaytext="MAIN COURSE TITLE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5Z9ITPM9dXT" displaytext="SECTION TITLE HERE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6jdk8iR8KEY" displaytext="INSTRUCTIONS LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5o86E1sqaXP" displaytext="COURSE OBJECTIVES" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6qDOvacNw6E" displaytext="MAIN MENU LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5bXxJZKC7rq" displaytext="MAJOR POINT LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5fBRw8qu8Tr" displaytext="50/50 LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6U6jaYh1dSl" displaytext="50/50 LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5hzlhRvxWOz" displaytext="50/50 LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6WEY3S8x2xY" displaytext="60/40 LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6HKq40ZyLA1" displaytext="70/30 LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6S3OKu9yqbz" displaytext="GRID LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.672DC2z7Twt" displaytext="THREE COLUMN LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6bqXgjx9EPI" displaytext="THREE COLUMN LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6jWKW2MUyeD" displaytext="FOUR COLUMN LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6R9qRFj1JV3" displaytext="LABELS LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6QcW1Bzk31L" displaytext="LIST LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5iq906nPlU6" displaytext="INFOGRAPHIC LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6NgaCNhaKWe" displaytext="INFOGRAPHIC LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6pVaqA15eT0" displaytext="SIMPLE TABLE LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6D8zSJtlPyp" displaytext="GRAPHIC METAPHOR LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.69pohOIqjEL" displaytext="SCENARIO STARTER" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6Q9Z5n8klKx" displaytext="ONE-PERSON SCENARIO" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6QiocIgjvKH" displaytext="TWO-PERSON SCENARIO" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5YLDgI2j8dM" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6rOFHz0oHEw" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5aIeXSbNzCa" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5tfWZwMBGBT" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.68cze6Y6fuc" displaytext="DRAG-AND-DROP INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5kaewTBI7GZ" displaytext="DRAG-AND-DROP INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5bteHXqzCZG" displaytext="SURVEY" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5ZPmApNpHGa" displaytext="TIMELINE INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5yfitQLX1nu" displaytext="PROCESS INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5nFZqNbyHAp" displaytext="PROCESS INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.6p0FhYlpHP7" displaytext="TABS INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5W6yE7FSXIa" displaytext="MEDIA INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5VBMbP3qUz7" displaytext="MEDIA INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5gJvyx23A1N" displaytext="RELATED CONTENT INTERACTION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5glH1sqnNFN" displaytext="SUMMARY INFORMATION" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5sA9RcgCDBY" displaytext="CONTACT LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ePdnY54nMd.5gAblzKHpGa" displaytext="EXIT COURSE" expand="false" type="slide" />
+            <slidelink slideid="_player.5vkdttDQ52O.6ksOiYIQGNT" displaytext="Here’s a pretty cool title to see how this goes." expand="false" type="slide" />
+            <slidelink slideid="_player.5vkdttDQ52O.6PnbNvFrfPT" displaytext="Conversation Script" expand="false" type="slide" />
+            <slidelink slideid="_player.5vkdttDQ52O.5oVNhs0dVAx" displaytext="Some other type of activity." expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
