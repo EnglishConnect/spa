@@ -1,138 +1,135 @@
-<!DOCTYPE html>
 <html lang="en-US">
-<head>
-  <meta charset="utf-8">
-  <!-- Created using Storyline 360 - http://www.articulate.com  -->
-  <!-- version: 3.42.22734.0 -->
-  <title>Untitled1</title>
-  <meta http-equiv="x-ua-compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, shrink-to-fit=no, minimal-ui" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <style>
-    html, body { height: 100%; padding: 0; margin: 0 }
-    #app { height: 100%; width: 100%; }
-  </style>
-  
-  <script>window.THREE = { };</script>
-</head>
-<body style="background: #282828" class="cs-HTML theme-unified">
-  <!-- 360 -->
-  <script>!function(e){function n(e,i){return e.test(i)}function i(e){var i=e||navigator.userAgent,o=i.split("[FBAN");if(void 0!==o[1]&&(i=o[0]),this.apple={phone:n(t,i),ipod:n(d,i),tablet:!n(t,i)&&n(s,i),device:n(t,i)||n(d,i)||n(s,i)},this.amazon={phone:n(h,i),tablet:!n(h,i)&&n(a,i),device:n(h,i)||n(a,i)},this.android={phone:n(h,i)||n(b,i),tablet:!n(h,i)&&!n(b,i)&&(n(a,i)||n(r,i)),device:n(h,i)||n(a,i)||n(b,i)||n(r,i)},this.windows={phone:n(l,i),tablet:n(p,i),device:n(l,i)||n(p,i)},this.other={blackberry:n(f,i),blackberry10:n(u,i),opera:n(c,i),firefox:n(A,i),chrome:n(w,i),device:n(f,i)||n(u,i)||n(c,i)||n(A,i)||n(w,i)},this.seven_inch=n(v,i),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window)return this}function o(){var e=new i;return e.Class=i,e}var t=/iPhone/i,d=/iPod/i,s=/iPad/i,b=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,r=/Android/i,h=/(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,a=/(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,l=/IEMobile/i,p=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,f=/BlackBerry/i,u=/BB10/i,c=/Opera Mini/i,w=/(CriOS|Chrome)(?=.*\bMobile\b)/i,A=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,v=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i");"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=i:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=o():"function"==typeof define&&define.amd?define("isMobile",[],e.isMobile=o()):e.isMobile=o()}(this);
-    window.isMobile.apple.tablet = window.isMobile.apple.tablet ||
-      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-    window.isMobile.apple.device = window.isMobile.apple.device || window.isMobile.apple.tablet;
-    window.isMobile.tablet = window.isMobile.tablet || window.isMobile.apple.tablet;
-    window.isMobile.any = window.isMobile.any || window.isMobile.apple.tablet;
-  </script>
+	<head>
+		<!-- Created using Storyline 360 - http://www.articulate.com  --> 
+		<!-- version: 3.42.22734.0 --> 
 
-  <div id="focus-sink" aria-hidden="true" tabIndex="-1"></div>
-
-  <div id="preso"></div>
-  <script>
-    window.DS = {};
-    window.globals = {
-      DATA_PATH_BASE: '',
-      HAS_FRAME: true,
-      HAS_SLIDE: true,
-
-      lmsPresent: false,
-      tinCanPresent: false,
-      cmi5Present: false,
-      aoSupport: false,
-      scale: 'noscale',
-      captureRc: false,
-      browserSize: 'fullscreen',
-      bgColor: '#282828',
-      features: '',
-      themeName: 'unified',
-      preloaderColor: '#FFFFFF',
-      suppressAnalytics: false,
-      productChannel: 'stable',
-      publishSource: 'storyline',
-      aid: 'aid|b63c229a-568e-4f01-b0ba-126b5c06e064',
-      cid: 'ecd38e14-6910-44dc-a498-60150d04cfff',
-      playerVersion: '3.42.22734.0',
-      maxIosVideoElements: 5,
-
-      
-      parseParams: function(qs) {
-        if (window.globals.parsedParams != null) {
-          return window.globals.parsedParams;
-        }
-        qs = (qs || window.location.search.substr(1)).split('+').join(' ');
-        var params = {},
-            tokens,
-            re = /[?&]?([^=]+)=([^&]*)/g;
-
-        while (tokens = re.exec(qs)) {
-          params[decodeURIComponent(tokens[1]).trim()] =
-            decodeURIComponent(tokens[2]).trim();
-        }
-        window.globals.parsedParams = params;
-        return params;
+		<title>Untitled1</title>
+    <style>
+      @font-face {
+        font-family: "Open Sans Full";
+        font-style: normal;
+        font-weight: 400;
+        src: local("Open Sans"),
+             local("OpenSans"),
+             url(html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff) format("woff")
+      }
+      body {
+        background-color: #F7F7F7;
+      }
+      h1 {
+        color: #636363;
+        font-family: "Open Sans Full", Helvetica, sans-serif;
+        font-size: 150%;
+        margin-bottom: 92px;
+        padding-bottom: 0;
       }
 
-    };
+      button {
+        background-color: #FFF;
+        border: 1px solid #636363;
+        border-radius: 80px;
+        box-shadow: 2px 3px 4px 1px rgba(39, 39, 39, 0.33);
+        color: #636363;
+        font-family: "Open Sans Full", Helvetica, sans-serif;
+        font-size: 100%;
+        padding: 20px 50px;
+      }
+      img {
+        height: 15px;
+        width: 15px;
+        margin-left: 8px;
+      }
+    </style>
+		<script>
+			
+			/******************************************************************************/
+			//
+			// NOTE TO DEVELOPERS:
+			// The following code should be integrated with your web page in order to open
+			// the presentation in a new window.  To launch the presentation immediately, 
+			// simply copy the code below into your web page.  To launch the presentation
+			// when a button or link is clicked, call LaunchPresentation when the onClick
+			// event is triggered.
+			//
+			/******************************************************************************/		
+		
+		
+			var Safari =  (navigator.appVersion.indexOf("Safari") >= 0);
+			
+			var g_bChromeless = true;
+			var g_bResizeable = true;
+			var g_nContentWidth = 980;
+			var g_nContentHeight = 658;
+			var g_strStartPage = "story.html" + document.location.search;
+			var g_strBrowserSize = "fullscreen";
+		
+			function LaunchContent()
+			{
+				var nWidth = screen.availWidth;
+				var nHeight = screen.availHeight;
 
-    (function() {
+				if (nWidth > g_nContentWidth && nHeight > g_nContentHeight && g_strBrowserSize != "fullscreen")
+				{
+					nWidth = g_nContentWidth;
+					nHeight = g_nContentHeight;
+					
+					if (!Safari && !g_bChromeless)
+					{
+						nWidth += 17;
+					}
+				}
 
-      var classTypes = [ 'desktop', 'mobile', 'phone', 'tablet' ];
+				// Build the options string
+				var strOptions = "width=" + nWidth +",height=" + nHeight;
+				if (g_bResizeable)
+				{
+					strOptions += ",resizable=yes"
+				}
+				else
+				{
+					strOptions += ",resizable=no"
+				}
 
-      var addDeviceClasses = function(prefix, testObj) {
-        var curr, i;
-        for (i = 0; i < classTypes.length; i++) {
-          curr = classTypes[i];
-          if (testObj[curr]) {
-            document.body.classList.add(prefix + curr);
-          }
-        }
-      };
+				if (g_bChromeless)
+				{
+					strOptions += ", status=0, toolbar=0, location=0, menubar=0, scrollbars=0";
+				}
+				else
+				{
+					strOptions += ", status=1, toolbar=1, location=1, menubar=1, scrollbars=1";
+				}
 
-      var params = window.globals.parseParams(),
-          isDevicePreview = params.devicepreview === '1',
-          isPhoneOverride = params.deviceType === 'phone' || (isDevicePreview && params.phone == '1'),
-          isTabletOverride = (params.deviceType === 'tablet' || isDevicePreview) && !isPhoneOverride,
-          isMobileOverride = isPhoneOverride || isTabletOverride;
+				// Launch the URL
+				if (Safari)
+				{
+					var oWnd = window.open("", "_blank", strOptions);
+					oWnd.location = g_strStartPage;
+				}
+				else
+				{
+					window.open(g_strStartPage , "_blank", strOptions);
+				}
+			}
 
-      var deviceView = {
-        desktop: !window.isMobile.any && !isMobileOverride,
-        mobile: window.isMobile.any || isMobileOverride,
-        phone: isPhoneOverride || (window.isMobile.phone && !isTabletOverride),
-        tablet: isTabletOverride || window.isMobile.tablet
-      };
-
-      window.globals.deviceView = deviceView;
-      window.isMobile.desktop = !window.isMobile.any;
-      window.isMobile.mobile = window.isMobile.any;
-
-      addDeviceClasses('view-', deviceView);
-
-    })();
-  </script>
-  
-  <script src='story_content/user.js' type=text/javascript></script>
-  <div class="slide-loader"></div>
-
-  <script type="text/javascript">
-    var doc = document, loader = doc.body.querySelector('.slide-loader'); [ 1, 2, 3 ].forEach(function(n) { var d = doc.createElement('div'); d.style.backgroundColor = window.globals.preloaderColor; d.classList.add('mobile-loader-dot'); d.classList.add('dot' + n); loader.appendChild(d); });
-  </script>
-
-  <div class="mobile-load-title-overlay" style="display: none">
-    <div class="mobile-load-title">Untitled1</div>
-  </div>
-
-  <div class="mobile-chrome-warning"></div>
-
-  <script>
-    
-    if (window.autoSpider && window.vInterfaceObject) {
-      document.querySelector('.mobile-load-title-overlay').style.display = 'none';
-    }
-  </script>
-
-  
-
-  <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix />
-</body>
-<script src="html5/lib/scripts/ds-bootstrap.min.js"></script>
+			
+			
+		</script>
+		
+	</head>
+	
+	<body onload="setTimeout('LaunchContent()', 100);">
+		<center>
+			<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td>
+						<center>
+              <h1 tabIndex="-1">Untitled1</h1>
+							<button onclick="LaunchContent()" aria-label="Launch course: opens in new window">Launch course <img src="story_content/external_window.png" style="border-style: none; height: 14px; width: 14px;" tabIndex="-1" aria-hidden="true"/></button>
+						</center>
+					</td>
+				</tr>
+			</table>
+		</center>
+	</body>
 </html>
+
